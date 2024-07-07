@@ -52,6 +52,7 @@ Sample Output 2:
 
 // ----> Sollution
 #include <bits/stdc++.h> 
+using namespace std;
 vector<int> findArraySum(vector<int>&a, int n, vector<int>&b, int m) {
 	// Write your code here.
 	int num1=0, num2=0, num=0;
